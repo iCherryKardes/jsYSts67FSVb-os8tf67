@@ -649,7 +649,7 @@ local Paragraph = CreditsTab:CreateParagraph({Title = "Credits to _nexusxz_ for"
 local ReloadUIButton = GuisTab:CreateButton({
 	Name = "Reload Gui",
 	Callback = function()
-		loadstring(game:HttpGet(""))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/iCherryKardes/jsYSts67FSVb-os8tf67/main/hub%20pre"))()
 	end,
 local InfiniteYieldButton = GuisTab:CreateButton({
     Name = "Infinite Yield",
